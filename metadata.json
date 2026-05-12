@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise AI Knowledge Assistant",
+  "description": "A production-grade RAG platform for intelligent document retrieval and enterprise knowledge management, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
